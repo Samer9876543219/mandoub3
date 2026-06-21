@@ -1,0 +1,20 @@
+{
+  "name": "نظام إدارة المناديب والمسوقين",
+  "short_name": "إدارة المناديب",
+  "description": "نظام متكامل لإدارة المناديب والمسوقين والبضاعة",
+  "start_url": "./index-6.html",
+  "display": "standalone",
+  "background_color": "#c00000",
+  "theme_color": "#c00000",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-4.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
